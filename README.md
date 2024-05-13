@@ -3,7 +3,7 @@ This notebook creates a stacking ensemble model to predict whether an adult make
 
 ## Data Inspection
 The adult census dataset contains features including age, workclass, gender, occupation, location, etc.
-The chosen labels the income > 50K or <=50K.
+The chosen label is whether an adult's income is > 50K or <=50K.
 
 ## Data Cleaning
 ### Replacing Null Values
